@@ -1,0 +1,203 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@10.9.3
+npm info using node@v22.19.0
+npm verbose title npm install
+npm verbose argv "install" "--registry" "https://registry.npmjs.org" "--legacy-peer-deps" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\HP PRO\AppData\Local\npm-cache\_logs\2026-07-01T09_13_41_186Z-
+npm verbose logfile C:\Users\HP PRO\AppData\Local\npm-cache\_logs\2026-07-01T09_13_41_186Z-debug-0.log
+npm http cache https://registry.npmjs.org/fsevents 369ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2faix-ppc64 2320ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fandroid-arm 584ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fandroid-arm64 676ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fandroid-x64 402ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fdarwin-arm64 288ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fdarwin-x64 302ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2ffreebsd-arm64 410ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2ffreebsd-x64 519ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-arm 537ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-arm64 352ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-ia32 396ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-loong64 285ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-mips64el 302ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-ppc64 644ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-riscv64 1006ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-s390x 253ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2flinux-x64 258ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fnetbsd-arm64 318ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fnetbsd-x64 283ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fopenbsd-arm64 378ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fopenbsd-x64 647ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fopenharmony-arm64 454ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fsunos-x64 258ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fwin32-arm64 500ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild%2fwin32-ia32 403ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-darwin-arm64 934ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-android-arm64 308ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-win32-arm64-msvc 501ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-freebsd-arm64 280ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-arm64-gnu 282ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-arm64-musl 518ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-android-arm-eabi 285ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-arm-gnueabihf 248ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-arm-musleabihf 339ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-win32-ia32-msvc 274ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-loong64-gnu 531ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-loong64-musl 496ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-riscv64-gnu 384ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-riscv64-musl 510ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-ppc64-gnu 853ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-ppc64-musl 264ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-s390x-gnu 269ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-darwin-x64 336ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-freebsd-x64 962ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-x64-gnu 1332ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-linux-x64-musl 306ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-openbsd-x64 274ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@rollup%2frollup-openharmony-arm64 466ms (cache revalidated)
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\win32-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\win32-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\sunos-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\openbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\netbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-s390x
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-riscv64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-mips64el
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-loong64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\linux-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\freebsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\freebsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\darwin-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\darwin-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\android-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\android-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\@esbuild-kit\core-utils\node_modules\esbuild\node_modules\@esbuild\android-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\vite\node_modules\fsevents
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\fsevents
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\win32-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\win32-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\sunos-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\openharmony-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\openbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\openbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\netbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\netbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-s390x
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-riscv64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-mips64el
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-loong64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\linux-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\freebsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\freebsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\darwin-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\darwin-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\android-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\android-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\android-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\tsx\node_modules\esbuild\node_modules\@esbuild\aix-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\fsevents
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-win32-ia32-msvc
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-win32-arm64-msvc
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-openharmony-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-openbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-x64-musl
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-x64-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-s390x-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-riscv64-musl
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-riscv64-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-ppc64-musl
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-ppc64-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-loong64-musl
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-loong64-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-arm64-musl
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-arm64-gnu
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-arm-musleabihf
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-linux-arm-gnueabihf
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-freebsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-freebsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-darwin-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-darwin-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-android-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\rollup\node_modules\@rollup\rollup-android-arm-eabi
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\win32-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\win32-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\sunos-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\openharmony-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\openbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\openbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\netbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\netbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-s390x
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-riscv64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-mips64el
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-loong64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\linux-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\freebsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\freebsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\darwin-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\darwin-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\android-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\android-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\android-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\esbuild\node_modules\@esbuild\aix-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\win32-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\win32-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\sunos-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\openharmony-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\openbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\openbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\netbsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\netbsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-s390x
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-riscv64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-mips64el
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-loong64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-ia32
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\linux-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\freebsd-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\freebsd-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\darwin-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\darwin-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\android-x64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\android-arm64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\android-arm
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\drizzle-kit\node_modules\esbuild\node_modules\@esbuild\aix-ppc64
+npm verbose reify failed optional dependency C:\Users\HP PRO\Music\shule hela\node_modules\chokidar\node_modules\fsevents
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 834ms
+npm http fetch GET 200 https://registry.npmjs.org/esbuild 1740ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild-kit%2fcore-utils 2424ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/vite 386ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@esbuild-kit%2fesm-loader 475ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/drizzle-kit 2037ms (cache revalidated)
+
+removed 120 packages, and audited 627 packages in 1m
+
+103 packages are looking for funding
+  run `npm fund` for details
+
+4 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+npm verbose cwd C:\Users\HP PRO\Music\shule hela
+npm verbose os Windows_NT 10.0.19045
+npm verbose node v22.19.0
+npm verbose npm  v10.9.3
+npm verbose exit 0
+npm info ok
